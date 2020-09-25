@@ -1,3 +1,5 @@
 {
-  "demo01_baidutieba_OOP.py::test": true
+  "demo01_baidutieba_OOP.py::test": true,
+  "demo15_Music163_vip_download_OOP.py::test": true,
+  "demo17_TencentJobSpider_OOP.py::test": true
 }
