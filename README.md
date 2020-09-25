@@ -14,6 +14,6 @@
 
 <font face='楷体' color='red' size=5>	**未经作者本人授权，禁止转载！请尊重原创！**</font>
 
-![timg](C:\Users\安伟超\Desktop\桌面文件\timg.jpg)
+<font face='楷体' color='red' size=10>	**遵纪守法，文明爬虫，从我做起**</font>
 
 **<font face="楷体" color='blue'>注：本代码集所有代码、案例测试环境：1.Linux -- 系统版本：Ubuntu20.04 LTS   2.windows -- 系统版本：WIN10 64位家庭版</font>**
