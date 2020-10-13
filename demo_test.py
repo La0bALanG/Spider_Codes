@@ -1,6 +1,3 @@
-from selenium import webdriver
-
-browser = webdriver.Chrome()
-browser.get('https://www.baidu.com')
-print(browser.title)
-browser.quit()
+# {
+#     "thumbURL":"https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=962314285,2767891947&fm=26&gp=0.jpg",
+#     "replaceUrl": [{"ObjURL":"http:\/\/img0.imgtn.bdimg.com\/it\/u=962314285,2767891947&fm=214&gp=0.jpg","ObjUrl":"http:\/\/img0.imgtn.bdimg.com\/it\/u=962314285,2767891947&fm=214&gp=0.jpg","FromURL":"http:\/\/www.duitang.com\/blog\/?id=812143695","FromUrl":"http:\/\/www.duitang.com\/blog\/?id=812143695"},
