@@ -1,3 +1,6 @@
-# {
-#     "thumbURL":"https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=962314285,2767891947&fm=26&gp=0.jpg",
-#     "replaceUrl": [{"ObjURL":"http:\/\/img0.imgtn.bdimg.com\/it\/u=962314285,2767891947&fm=214&gp=0.jpg","ObjUrl":"http:\/\/img0.imgtn.bdimg.com\/it\/u=962314285,2767891947&fm=214&gp=0.jpg","FromURL":"http:\/\/www.duitang.com\/blog\/?id=812143695","FromUrl":"http:\/\/www.duitang.com\/blog\/?id=812143695"},
+
+import re
+
+s_url = '新式“火腿圈蛋”，好看又好吃#自制美食 @抖音小助手  https://v.douyin.com/Jf2NMTv/ 复制此链接，打开抖音，直接观看视频！'
+s = re.findall('(https?://[^\s]+)', s_url)[0]
+print(s)
